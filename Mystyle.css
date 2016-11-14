@@ -1,0 +1,14 @@
+body {
+    background-image: url("spy.gif");
+}
+h1 {
+    color:brown;
+font-size:50;
+}
+h2 {
+    color:darkorange
+}
+p{
+    color:crimson;
+    margin-left:20px;
+}
